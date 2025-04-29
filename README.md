@@ -63,7 +63,9 @@ Project Structure & GitHub
 	•	Short project description
  
 	•	Link to live site
+ 
 	•	Setup instructions
+ 
 	•	Organize files:
  
 	•	/index.html
